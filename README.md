@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yugasun&show_icons=true&hide_border=true&theme=vue-dark" />
 
-Hi, I'm a Frontend Developer and Serverless Enthusiast🚀 from China.
+Hi, I'm a Frontend Developer from China.
 
 **About me:**
 
