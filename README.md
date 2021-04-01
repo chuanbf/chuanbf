@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [九胖](https://jiupang.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiupang0910&show_icons=true&hide_border=true&theme=react-dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiupang0910&show_icons=true&hide_border=true&theme=synthwave" />
 
 Hi, I'm a Frontend Developer from China.
 
