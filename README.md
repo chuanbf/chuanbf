@@ -1,6 +1,6 @@
-### Hey, I'm [川不凡](https://jiupanger.com)
+### Hey, I'm [川不凡](https://chuanbf.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiupang0910&show_icons=true&hide_border=true&theme=vue-dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chuanbf&show_icons=true&hide_border=true&theme=vue-dark" />
 
 
 - I’m currently working on SaaS solution at @FlashExpress! 🏆
