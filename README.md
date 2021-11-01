@@ -1,4 +1,4 @@
-### Hey, I'm [技术川](https://jschuan.com)
+### Hey, I'm [jschuan](https://jschuan.com)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jschuan&show_icons=true&hide_border=true&theme=react" />
 
