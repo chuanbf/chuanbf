@@ -1,6 +1,6 @@
 ### Hey, I'm [jschuan](https://jschuan.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jschuan&show_icons=true&hide_border=true&theme=react" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jschuan&show_icons=true&hide_border=true&theme=dark" />
 
 
 - I’m currently working on SaaS solution at @FlashExpress! 🏆
