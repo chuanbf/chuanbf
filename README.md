@@ -11,7 +11,7 @@
 
 ### Github State
 
-[![jslaowang's github stats](https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![jslaowang1's github stats](https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Pinned
 <a href="https://github.com/jslaowang/blog">
