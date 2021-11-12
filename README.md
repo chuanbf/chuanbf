@@ -15,7 +15,7 @@
 
 ### Pinned
 <a href="https://github.com/jslaowang/blog">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jslaowang&repo=blog&show_icons=true&theme=atom" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jslaowang&repo=blog&show_icons=true&theme=react" />
 </a>
 
 <a href="https://github.com/jslaowang/vue3-music">
