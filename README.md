@@ -5,7 +5,7 @@
 
 |  站点   | 掘金  |
 |  ----  | ----  |
-| [jslaowang](https://jslaowang.com) | [点我直达](https://juejin.im/user/571401777450744)|
+| [jslaowang](https://jslaowang.com) | [juejin](https://juejin.im/user/571401777450744)|
 
 
 
