@@ -1,28 +1,22 @@
-- 你好，我是[jslaowang](https://jslaowang.com)
-- 一个前端开发者
-- 联系方式: 13522750636@163.com
-- 
-- 
+### Hi there，I'm jslaowang 👋
 
-<!-- Pinned Repositories -->
-#### Pinned
+一线前端开发，Vue 和 React 均有涉猎，关注前端技术，运营公众号:「老王学前端」
 
-<p align="center">
-<a href="https://github.com/shahriarshafin/shahriarshafin">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
 
-<p align="center">
-<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+|  公众号   | 掘金  |
+|  ----  | ----  |
+| [老王学前端]() | [点我直达](https://juejin.im/user/571401777450744)|
+
+
+
+### Github State
+
+[![jslaowang's github stats](https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/pinguo-zhouwei/MZBannerView">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=pinguo-zhouwei&repo=MZBannerView&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+
+<a href="https://github.com/pinguo-zhouwei/CustomPopwindow">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=pinguo-zhouwei&repo=CustomPopwindow&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-</p>
