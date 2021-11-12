@@ -1,5 +1,3 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&hide_border=true&theme=react" />
-
 - 你好，我是[jslaowang](https://jslaowang.com)
 - 一个前端开发者
 - 联系方式: 13522750636@163.com
