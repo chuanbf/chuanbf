@@ -8,16 +8,4 @@
 | [jslaowang](https://jslaowang.com) | [juejin](https://juejin.im/user/571401777450744)|
 
 
-
-### Github State
-
-[![jslaowang's github stats](https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-### Pinned
-<a href="https://github.com/jslaowang/blog">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jslaowang&repo=blog&show_icons=true&theme=react" />
-</a>
-
-<a href="https://github.com/jslaowang/vue3-music">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jslaowang&repo=vue3-music&show_icons=true&theme=react" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&hide_border=true&theme=react" />
