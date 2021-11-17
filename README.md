@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&hide_border=true&theme=react" />
-
 ### Hi there，I'm jslaowang 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&hide_border=true&theme=react" />
 
 一线前端开发，熟悉前端领域各种技术
 
