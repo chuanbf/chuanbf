@@ -1,9 +1,7 @@
-### Hi there，I'm jslaowang 👋
+### Hi there，I'm jslaowang [个人网站](https://jslaowang.com) 👋 一线前端开发，熟悉前端领域各种技术
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&hide_border=true&theme=react" />
 
-- 一线前端开发，熟悉前端领域各种技术
-- [个人网站](https://jslaowang.com)
 - 熟悉 `React` 框架
 - 熟悉构建工具，例如 Webpack
 - 熟悉 TypeScript，有实际使用经验
