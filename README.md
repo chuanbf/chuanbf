@@ -1,4 +1,4 @@
-### Hi there，I'm  <a href="https://jslaowang.com" target="_blank">jslaowang</a> 👋 
+### Hi there，I'm [jslaowang](https://jslaowang.com)👋 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&hide_border=true&theme=react" />
 
