@@ -1,6 +1,6 @@
 ### Hi there，I'm [jslaowang](https://jslaowang.com) 👋 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&hide_border=true&theme=react" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&hide_border=true&theme=vue" />
 
 - 一线前端开发，负责前端相关研发工作
 - 熟悉 `React` 框架
