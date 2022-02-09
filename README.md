@@ -8,6 +8,5 @@
 - 擅长**Web性能优化**，**前端工程化**建设，能熟练使用**Docker、Nginx**
 - 熟练掌握**Git**工作流，能够高效进行协同开发
 - 了解**TypeScript + React.js + Redux**技术栈
-- 了解**Golang、Python**等后端语言
 
 
