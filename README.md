@@ -2,6 +2,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&hide_border=true&theme=vue-dark" />
 
+Hi, I'm a Frontend Developer 🚀 from China.
+
 - 负责前端相关内容开发
 - 微信：13522750636
 - Email：13522750636@163.com
