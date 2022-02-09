@@ -2,6 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jslaowang&show_icons=true&hide_border=true&theme=vue-dark" />
 
+- 一线前端开发
 - 微信：13522750636
 - Email：13522750636@163.com
 - 熟练掌握`Vue.js`技术栈，了解其原理
