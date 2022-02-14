@@ -5,7 +5,7 @@
 Hi, I'm a Frontend Developer 🚀 from China.
 
 **About me:**
-- 目前在北京工作
+- 前端开发工程师
 - 负责前端相关内容开发
 - 熟悉Vue技术栈
 - 微信：13522750636
